@@ -1,7 +1,7 @@
 ## CoinSim.py
 ## purpose   : 변동성 돌파 전략  Simulate  화폐별, 기간별  UI 연동
 ## author    : simverse
-## reference : Larry Williams의 변동성 돌파 전략을 활용한  누구나 할수 있다. 비트코인 자동매매   유부장/조대협 저
+## reference : Larry Williams의 변동성 돌파 전략을 활용한  누구나 할수 있다. 비트코인 자동매매   유부장/조대표 저
 ## history   :
 ##       version date        author      description
 ##       1.0     2019.07.06  simverse    dev start
